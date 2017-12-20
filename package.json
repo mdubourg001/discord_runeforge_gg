@@ -1,0 +1,13 @@
+{
+  "name": "runeforge-gg",
+  "version": "1.0.0",
+  "description": "A bot scraping runeforge.gg for League of Legends rune builds.",
+  "main": "bot.js",
+  "author": "damnhotuser",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "nodemon": "^1.13.3",
+    "scraperjs": "^1.2.0",
+    "winston": "^2.4.0"
+  }
+}
